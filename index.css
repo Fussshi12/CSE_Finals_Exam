@@ -553,12 +553,14 @@ header {
 
     .deancert{
     height: 30vw;
-    margin-left: 2.5vw;
+    margin-left: auto;
+    margin-right: auto;
     }
 
     .cert{
     height: 15vw;
-    margin-left: 3.5vw;
+    margin-left: auto;
+    margin-right: auto;
     }
 
     .four{
